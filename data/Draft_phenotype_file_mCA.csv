@@ -1,0 +1,1342 @@
+sample,sample_id,Broad_plate_id,IDAT_id,Publication,HEALTH.STATUS,Kennel_health,BREED,Sex
+100544,100544,,,,Healthy,Lymphoma ,Golden retriever,Male
+100566,100566,,,,Healthy,Healthy,Golden retriever,Female
+101823,101823,,,,Healthy,Healthy,Golden retriever,Female
+101867,101867,,,,Healthy,Healthy,Golden retriever,Female
+101880,101880,,,,Healthy,Healthy,Golden retriever,Male
+102408,102408,,,,Healthy,Healthy,Golden retriever,Male
+106840,106840,,,,Healthy,Healthy,Golden retriever,Female
+106918,106918,,,,Healthy,Healthy,Golden retriever,Female
+11545,11545,,,,HSA,Hemangiosarcoma,Leonberger,Female
+117157,117157,,,,Lymphoma ,Lymphoma ,Golden retriever,Male
+11788,11788,,,,Hemangiosarcoma (Spleen),Hemangiosarcoma (Spleen),Golden retriever,0
+12222,12222,,,,Healthy,Healthy,Golden retriever,Female
+12228,12228,,,,Hemangiosarcoma (All),Hemangiosarcoma (All),Golden retriever,Male
+124964,124964,,,,Healthy,,Golden retriever,
+124965,124965,,,,Healthy,,Golden retriever,
+12507,12507,,,,Hemangiosarcoma (Unspecified),Hemangiosarcoma (Unspecified),Golden retriever,0
+12698,12698,,,,OSA,Osteosarcoma (All),Golden retriever,Male
+14428,14428,,,,Healthy,Healthy,Golden retriever,Female
+14952,14952,,,,HSA,Hemangiosarcoma (All),Leonberger,Female
+151441,151441,,,,MCT,Mast cell tumor,Labrador retriever,Female
+153817,153817,,,,MCT,Mast cell tumor,Labrador retriever,Female
+153819,153819,,,,control,Healthy,Labrador retriever,Female
+153820,153820,,,,control,0,Labrador retriever,Female
+153824,153824,,,,control,Healthy,Labrador retriever,Male
+153830,153830,,,,control,Healthy,Labrador retriever,Female
+153834,153834,,,,MCT,Mast cell tumor,Labrador retriever,Female
+154026,154026,,,,control,Healthy,Labrador retriever,Female
+154030,154030,,,,control,,Labrador retriever,
+154031,154031,,,,control,Healthy,Labrador retriever,Male
+154033,154033,,,,MCT,Mast cell tumor,Labrador retriever,Female
+156171,156171,,,,control,Healthy,Labrador retriever,Male
+156172,156172,,,,control,Healthy,Labrador retriever,Male
+156173,156173,,,,control,Healthy,Labrador retriever,Male
+156175,156175,,,,control,Healthy,Labrador retriever,Female
+156179,156179,,,,MCT,Mast cell tumor,Labrador retriever,Male
+156189,156189,,,,control,Healthy,Labrador retriever,Female
+159164,159164,,,,MCT,Mast cell tumor,Labrador retriever,Female
+159165,159165,,,,MCT,Mast cell tumor,Labrador retriever,Female
+159206,159206,,,,MCT,Mast cell tumor,Labrador retriever,Female
+159208,159208,,,,control,0,Labrador retriever,Female
+159571,159571,,,,control,Healthy,Labrador retriever,Female
+159573,159573,,,,control,Healthy,Labrador retriever,Male
+160878,160878,,,,control,Healthy,Labrador retriever,Female
+161598,161598,,,,HSA,,Golden retriever,
+161607,161607,,,,HSA,,Golden retriever,
+161635,161635,,,,HSA,,Golden retriever,
+161642,161642,,,,HSA,,Golden retriever,
+161645,161645,,,,HSA,,Golden retriever,
+161655,161655,,,,HSA,,Golden retriever,
+161663,161663,,,,MCT,Mast cell tumor,Labrador retriever,Male
+161761,161761,,,,LSA,,Golden retriever,
+161764,161764,,,,LSA,,Golden retriever,
+161765,161765,,,,LSA,,Golden retriever,
+161767,161767,,,,LSA,,Golden retriever,
+161769,161769,,,,LSA,,Golden retriever,
+161770,161770,,,,LSA,,Golden retriever,
+161771,161771,,,,LSA,,Golden retriever,
+161774,161774,,,,LSA,,Golden retriever,
+161776,161776,,,,LSA,,Golden retriever,
+161779,161779,,,,LSA,,Golden retriever,
+161781,161781,,,,LSA,,Golden retriever,
+161783,161783,,,,LSA,,Golden retriever,
+161787,161787,,,,LSA,,Golden retriever,
+161792,161792,,,,LSA,,Golden retriever,
+161802,161802,,,,LSA,,Golden retriever,
+161809,161809,,,,LSA,,Golden retriever,
+161810,161810,,,,LSA,,Golden retriever,
+162225,162225,,,,control,,Labrador retriever,
+162227,162227,,,,control,Healthy,Labrador retriever,Male
+162445,162445,,,,control,Healthy,Labrador retriever,Female
+175634,175634,,,,older AA boxers ,0,Boxer,0
+178890,178890,,,,,0,Golden retriever,0
+18540,18540,,,,JRD,Juvenile Renal Dysplasia (JRD),Boxer,Female
+1917,1917,,,,Healthy,Healthy,Golden retriever,Female
+2013,2013,,,,Hemangiosarcoma (Spleen),Hemangiosarcoma (Spleen),Golden retriever,Male
+20355,20355,,,,MCT,Mast cell,Golden retriever,Female
+2041,2041,,,,Healthy,Healthy,Golden retriever,Female
+210757,210757,,,,Hemangiosacoma (splenic),Hemangiosacoma (splenic),Golden retriever,Male
+2122,2122,,,,Healthy,Healthy,Golden retriever,Male
+2136,2136,,,,Healthy,Healthy,Golden retriever,Female
+21374,21374,,,,OSA,Osteosarcoma (All),Golden retriever,Male
+21420,21420,,,,Hemangiosarcoma (Skin/Cuaneous),Hemangiosarcoma (Skin/Cuaneous),Golden retriever,Male
+21642,21642,,,,Hemangiosarcoma (All),Hemangiosarcoma (All),Golden retriever,Male
+22,22,,,,OCD,,Rottweiler,
+2200,2200,,,,Healthy,Healthy,Golden retriever,Female
+2205,2205,,,,LSA,Lymphoma ,Golden retriever,Male
+2225,2225,,,,Healthy,Healthy,Golden retriever,Female
+22751,22751,,,,Hemangiosacoma (splenic),Hemangiosacoma (splenic),Golden retriever,Male
+2340,2340,,,,Control,Healthy,Golden retriever,Male
+24087,24087,,,,Hemangiosarcoma (All),Hemangiosarcoma (All),Golden retriever,Male
+24392,24392,,,,MCT,Mast Cell (All),Golden retriever,Female
+2582,2582,,,,OSA,Healthy,IWH,Female
+26161,26161,,,,OSA,Osteosarcoma (All),Golden retriever,Male
+2620,2620,,,,LSA,Subaortic stenosis,Golden retriever,Female
+26328,26328,,,,LSA,Lymphoma (T-cell),Golden retriever,Male
+26329,26329,,,,LSA,Lymphoma (B-cell),Golden retriever,Male
+26333,26333,,,,LSA,Lymphoma (T-cell),Golden retriever,Female
+26334,26334,,,,LSA,Lymphoma (T-cell),Golden retriever,Female
+26335,26335,,,,LSA,Lymphoma (B-cell),Golden retriever,Male
+26340,26340,,,,LSA,Lymphoma (T-cell),Golden retriever,Male
+26342,26342,,,,LSA,Lymphoma (B-cell),Golden retriever,Female
+26343,26343,,,,LSA,Lymphoma (B-cell),Golden retriever,Female
+26344,26344,,,,LSA,Lymphoma (T-cell),Golden retriever,Male
+26345,26345,,,,LSA,Lymphoma (B-cell),Golden retriever,Male
+26347,26347,,,,LSA,Lymphoma (T-cell),Golden retriever,Male
+26352,26352,,,,LSA,Lymphoma ,Golden retriever,Male
+26356,26356,,,,LSA,Lymphoma (B-cell),Golden retriever,Male
+26358,26358,,,,LSA,Lymphoma (T-cell),Golden retriever,Male
+26360,26360,,,,LSA,Lymphoma (B-cell),Golden retriever,Male
+26365,26365,,,,LSA,Lymphoma (B-cell),Golden retriever,Male
+26368,26368,,,,LSA,Lymphoma (B-cell),Golden retriever,Male
+26369,26369,,,,LSA,Lymphoma (B-cell),Golden retriever,Male
+26370,26370,,,,LSA,Lymphoma (T-cell),Golden retriever,Female
+27445,27445,,,,Hemangiosarcoma (Spleen),Hemangiosarcoma (Spleen),Golden retriever,Male
+2855,2855,,,,Hemangiosarcoma (Unspecified),Hemangiosarcoma (Unspecified),Golden retriever,Female
+28705,28705,,,,OSA,Osteosarcoma (All),Golden retriever,Female
+2873,2873,,,,OSA,Osteosarcoma,Golden retriever,Female
+29128,29128,,,,LSA,Lymphoma (B Type),Golden retriever,0
+29129,29129,,,,LSA,Lymphoma (B Type),Golden retriever,0
+2991,2991,,,,LSA,Histiocytic sarcoma,Golden retriever,Male
+31365,31365,,,,LSA,Lymphoma ,Golden retriever,0
+31367,31367,,,,LSA,Lymphoma ,Golden retriever,0
+31369,31369,,,,LSA,Lymphoma ,Golden retriever,0
+31370,31370,,,,LSA,Lymphoma ,Golden retriever,0
+31371,31371,,,,LSA,Lymphoma ,Golden retriever,0
+31373,31373,,,,LSA,Lymphoma ,Golden retriever,0
+31374,31374,,,,LSA,Lymphoma ,Golden retriever,0
+31375,31375,,,,LSA,Lymphoma ,Golden retriever,0
+31376,31376,,,,LSA,Lymphoma ,Golden retriever,0
+31377,31377,,,,LSA,Lymphoma ,Golden retriever,0
+31378,31378,,,,LSA,Lymphoma ,Golden retriever,0
+31380,31380,,,,LSA,Lymphoma ,Golden retriever,0
+31423,31423,,,,Healthy,Healthy,Golden retriever,0
+31428,31428,,,,LSA,Lymphoma ,Golden retriever,0
+31429,31429,,,,LSA,Lymphoma ,Golden retriever,0
+31433,31433,,,,LSA,Lymphoma ,Golden retriever,0
+31434,31434,,,,LSA,Lymphoma ,Golden retriever,0
+3231,3231,,,,JRD,Healthy,Boxer,Male
+33266,33266,,,,MCT,Mast Cell (All),Golden retriever,Male
+339724,339724,,,,MC Sarcoma,Mast Cell Sarcoma,Labrador retriever,Female
+34141,34141,,,,HCSMA,HCSMA (obligate heterozygote),Golden retriever,Male
+342479,342479,,,,MC Sarcoma grade 2,Mast Cell Tumor Grade II,Labrador retriever,Male
+342488,342488,,,,healthy,Mast Cell Tumor Grade II,Labrador retriever,Female
+35556,35556,,,,Lymphoma ,Lymphoma ,Golden retriever,Male
+36166,36166,,,,MCT,Mast Cell Tumor Grade II,Golden retriever,Male
+3648,3648,,,,Healthy,Healthy,Golden retriever,Female
+3685,3685,,,,Hemangiosarcoma (Questionable),Hemangiosarcoma (Questionable),Golden retriever,Female
+3686,3686,,,,Healthy,Healthy,Golden retriever,Female
+3703,3703,,,,JRD,Juvenile Renal Dysplasia (JRD),Boxer,Female
+370596,370596,,,,MCT grade 2, Mast Cell Tumor Grade II,Labrador retriever,Male
+37219,37219,,,,Lymphoma ,Lymphoma ,Golden retriever,Male
+3723,3723,,,,Hemangiosarcoma (Unspecified),Hemangiosarcoma (Unspecified),Golden retriever,Female
+3729,3729,,,,OSA,Osteosarcoma,Golden retriever,Female
+43419,43419,,,,SAS,Aortic stenosis,Golden retriever,Female
+43431,43431,,,,SAS,Aortic stenosis,Golden retriever,Female
+43432,43432,,,,SAS,Aortic stenosis,Golden retriever,Male
+43447,43447,,,,SAS,Healthy,Golden retriever,Male
+43453,43453,,,,SAS,Healthy,Golden retriever,Male
+43564,43564,,,,LSA,Healthy,Golden retriever,Female
+43925,43925,,,,LSA,Healthy,Golden retriever,Female
+441703,Comstock_442,,,,OSTEOSARCOMA,,,
+47215,47215,,,,LSA,Lymphoma (B-cell),Golden retriever,Female
+47217,47217,,,,LSA,Lymphoma (B-cell),Golden retriever,Male
+47223,47223,,,,LSA,Lymphoma ,Golden retriever,Male
+47226,47226,,,,LSA,Lymphoma ,Golden retriever,Male
+47232,47232,,,,LSA,Lymphoma (B-cell),Golden retriever,Male
+47235,47235,,,,LSA,Lymphoma (T-cell),Golden retriever,Male
+47236,47236,,,,LSA,Lymphoma (T-cell),Golden retriever,Female
+47242,47242,,,,LSA,Lymphoma (B-cell),Golden retriever,Male
+47243,47243,,,,LSA,Lymphoma (B-cell),Golden retriever,Male
+47245,47245,,,,LSA,Lymphoma ,Golden retriever,Male
+48561,48561,,,,,,,
+5082,5082,,,,Lymphoma ,Lymphoma ,Golden retriever,Female
+51849,51849,,,,MCT,Sub-Aortic Stenosis,Golden retriever,Male
+551513,551513,,,,healthy,,Labrador retriever,
+551547,551547,,,,healthy,,Labrador retriever,
+5893,5893,,,,OSA,Osteosarcoma,Golden retriever,Male
+5959,5959,,,,Hemangiosarcoma (Spleen),Hemangiosarcoma (Spleen),Golden retriever,Female
+6473,6473,,,,Lymphoma ,Lymphoma ,Golden retriever,Female
+6614,6614,,,,Healthy,Lipoma,Golden retriever,Female
+78288,78288,,,,Healthy,0,Golden retriever,Female
+78290,78290,,,,Healthy,0,Golden retriever,Female
+89068,89068,,,,,,Boxer,
+89079,89079,,,,,0,Boxer,0
+89095,89095,,,,,0,Boxer,0
+89115,89115,,,,,,Boxer,
+89125,89125,,,,,,Boxer,
+89127,89127,,,,,0,Boxer,0
+89129,89129,,,,,0,Boxer,0
+89133,89133,,,,,,Boxer,
+89137,89137,,,,,,Boxer,
+89139,89139,,,,,,Boxer,
+89143,89143,,,,,0,Boxer,0
+89151,89151,,,,,,Boxer,
+89153,89153,,,,,,Boxer,
+89155,89155,,,,,,Boxer,
+89157,89157,,,,,,Boxer,
+89165,89165,,,,,,Boxer,
+89171,89171,,,,,,Boxer,
+89181,89181,,,,,,Boxer,
+89187,89187,,,,,,Boxer,
+89189,89189,,,,,0,Boxer,0
+89191,89191,,,,,,Boxer,
+89202,89202,,,,,,Boxer,
+89203,89203,,,,,,Boxer,
+89204,89204,,,,,,Boxer,
+89977,89977,,,,OSA,0,Greyhound,0
+9064,9064,,,,Healthy,Healthy,Golden retriever,Female
+9077,9077,,,,Healthy,Healthy,Golden retriever,Female
+9117,9117,,,,Healthy,Healthy,Golden retriever,Female
+9196,9196,,,,Arthritis,Arthritis,Golden retriever,Male
+9280,9280,,,,JRD,Hemangiosarcoma,Boxer,Female
+9296,9296,,,,Hemangiosarcoma (Spleen),Hemangiosarcoma (Spleen),Golden retriever,Female
+9379,9379,,,,Hemangiosarcoma (Spleen),Hemangiosarcoma (Spleen),Golden retriever,Male
+95787,95787,,,,Healthy,Healthy,Golden retriever,Female
+BI_01918,BI_1918,,,,Healthy,,Golden retriever,
+BI_02537,BI_2537,,,,Healthy,,Golden retriever,
+BI_11267,BI_11267,,,,,,Rottweiler,
+BI_12433,BI_12433,,,,,,Rottweiler,
+BI_14176,BI_14176,,,,MCT,,Golden retriever,
+BI_14453,BI_14453,,,,MCT,,Golden retriever,
+BI_14571,BI_14571,,,,,,Rottweiler,
+BI_14695,BI_14695,,,,MCT,,Golden retriever,
+BI_14915,BI_14915,,,,MCT,,Golden retriever,
+BI_14930,BI_14930,,,,MCT,,Golden retriever,
+BI_15648,BI_15648,,,,MCT,,Golden retriever,
+BI_20702,BI_20702,,,,MCT,,Golden retriever,
+BI_22320,BI_22320,,,,MCT,,Golden retriever,
+BI_26285,BI_26285,,,,,,Rottweiler,
+BI_2999,BI_2999,,,,,,Rottweiler,
+BI_30643,BI_30643,,,,,,Rottweiler,
+BI_3921,BI_3921,,,,,,Rottweiler,
+BI_3923,BI_3923,,,,,,Rottweiler,
+BI_41925,BI_41925,,,,MCT,,Golden retriever,
+BI_41927,BI_41927,,,,MCT,,Golden retriever,
+BI_6634,BI_6634,,,,,,Rottweiler,
+BI_69123,BI_69123,,,,Healthy,,Golden retriever,
+BI_7368,BI_7368,,,,,,Rottweiler,
+BI_L-434,434,,,,,,Rottweiler,
+Comstock_467,Comstock_467,,,,,,Rottweiler,
+Comstock_542,Comstock_542,,,,,,Rottweiler,
+Comstock_597,Comstock_597,,,,,,Rottweiler,
+Comstock_616,Comstock_616,,,,,,Rottweiler,
+Comstock_633,Comstock_633,,,,,,Rottweiler,
+Comstock_722,Comstock_722,,,,,,Rottweiler,
+Comstock_740,Comstock_740,,,,,,Rottweiler,
+GREY_BI_25857_BROAD_25857,25857,,,,,,,
+GREY_BI_26711_BROAD_26711,26711,,,,,,,
+GREY_BI_3489_BROAD_3489,3489,,,,,,,
+GREY_BI_3491_BROAD_3491,3491,,,,,,,
+GREY_BI_6201_BROAD_6201,6201,,,,,,,
+GREY_BI_6205_BROAD_6205,6205,,,,,,,
+GREY_BI_6553_BROAD_6553,6553,,,,,,,
+GREY_BI_6554_BROAD_6554,6554,,,,,,,
+GREY_BI_6561_BROAD_6561,6561,,,,,,,
+GREY_BI_6563_BROAD_6563,6563,,,,,,,
+GREY_BI_7389_BROAD_7389,7389,,,,,,,
+LE0046,LE0046,,,,HEMANGIOSARCOMA,,Leonberger,
+LE0753,LE0753,,,,HEMANGIOSARCOMA,,Leonberger,
+LE443,LE443,,,,liver and spleen,,Leonberger,
+GSM1627831,GSM1627831,,,,NA,,Lundehund,
+GSM1755111,GSM1755111,,,,NA,,Alaskan malamute,
+GSM1755115,GSM1755115,,,,NA,,Alaskan malamute,
+GSM1755116,GSM1755116,,,,NA,,Alaskan malamute,
+GSM1755119,GSM1755119,,,,NA,,Siberian husky,
+GSM1755128,GSM1755128,,,,NA,,Siberian husky,
+GSM2195589,GSM2195589,,,,NA,,Saluki,
+GSM2195631,GSM2195631,,,,NA,,Cirneco dell'Etna,
+GSM2195728,GSM2195728,,,,NA,,Italian Greyhound,
+GSM2195729,GSM2195729,,,,NA,,Italian Greyhound,
+GSM2195730,GSM2195730,,,,NA,,Italian Greyhound,
+GSM2400558,GSM2400558,,,,NA,,Akita,
+GSM2400579,GSM2400579,,,,NA,,Australian Shepherd,
+GSM2400582,GSM2400582,,,,NA,,Australian Shepherd,
+GSM2400602,GSM2400602,,,,NA,,Basset Hound,
+GSM2400607,GSM2400607,,,,NA,,Beagle,
+GSM2400611,GSM2400611,,,,NA,,Beagle,
+GSM2400620,GSM2400620,,,,NA,,Belgian Sheepdog,
+GSM2400622,GSM2400622,,,,NA,,Bloodhound,
+GSM2400633,GSM2400633,,,,NA,,Border Collie,
+GSM2400634,GSM2400634,,,,NA,,Border Collie,
+GSM2400659,GSM2400659,,,,NA,,Boston Terrier,
+GSM2400662,GSM2400662,,,,NA,,Boston Terrier,
+GSM2400668,GSM2400668,,,,NA,,Boxer,
+GSM2400671,GSM2400671,,,,NA,,Boxer,
+GSM2400672,GSM2400672,,,,NA,,Boxer,
+GSM2400674,GSM2400674,,,,NA,,Briard,
+GSM2400702,GSM2400702,,,,NA,,Basenji,
+GSM2400703,GSM2400703,,,,NA,,Basenji,
+GSM2400713,GSM2400713,,,,NA,,Bulldog,
+GSM2400734,GSM2400734,,,,NA,,Bull,
+GSM2400753,GSM2400753,,,,NA,,Cardigan Welsh Corgi,
+GSM2400770,GSM2400770,,,,NA,,Chow Chow,
+GSM2400794,GSM2400794,,,,NA,,Dachshund,
+GSM2400833,GSM2400833,,,,NA,,Doberman Pinscher,
+GSM2400902,GSM2400902,,,,NA,,Greyhound,
+GSM2400942,GSM2400942,,,,NA,,Giant Schnauzer,
+GSM2400948,GSM2400948,,,,NA,,Havanese,
+GSM2400980,GSM2400980,,,,NA,,Irish Wolfhound,
+GSM2400996,GSM2400996,,,,NA,,Kuvasz,
+GSM2401019,GSM2401019,,,,NA,,Leonberger,
+GSM2401023,GSM2401023,,,,NA,,Mastiff,
+GSM2401042,GSM2401042,,,,NA,,Miniature Pinscher,
+GSM2401046,GSM2401046,,,,NA,,Miniature Pinscher,
+GSM2401081,GSM2401081,,,,NA,,Newfoundland,
+GSM2401084,GSM2401084,,,,NA,,Newfoundland,
+GSM2401107,GSM2401107,,,,NA,,Papillon,
+GSM2401196,GSM2401196,,,,NA,,Scottish Terrier,
+GSM2401198,GSM2401198,,,,NA,,Scottish Terrier,
+GSM2401200,GSM2401200,,,,NA,,Scottish Terrier,
+GSM2401204,GSM2401204,,,,NA,,Scottish Terrier,
+GSM2401219,GSM2401219,,,,NA,,Shih Tzu,
+GSM2401257,GSM2401257,,,,NA,,Staffordshire Bull,
+GSM2401264,GSM2401264,,,,NA,,Saint Bernard,
+GSM2401272,GSM2401272,,,,NA,,Tibetan Mastiff,
+GSM2401280,GSM2401280,,,,NA,,Toy Poodle,
+GSM2539167,GSM2539167,,,,NA,,Foxhound,
+GSM2539215,GSM2539215,,,,NA,,Curly Coated retriever,
+GSM2539269,GSM2539269,,,,NA,,Airedale Terrier,
+GSM2539286,GSM2539286,,,,NA,,Soft Coated Wheaten Terrier,
+GSM2539292,GSM2539292,,,,NA,,Tibetan Terrier,
+GSM2539299,GSM2539299,,,,NA,,Xigou,
+GSM3424520,GSM3424520,,,,NA,,Cane Corso,
+GSM3424535,GSM3424535,,,,NA,,Lupo Italiano,
+GSM3424579,GSM3424579,,,,NA,,Lagotto Romagnolo,
+GSM3424582,GSM3424582,,,,NA,,Lagotto Romagnolo,
+GSM3424595,GSM3424595,,,,NA,,Mannara's Dog,
+GSM3424605,GSM3424605,,,,NA,,Mannara's Dog,
+GSM3424607,GSM3424607,,,,NA,,Maremma,
+GSM3424671,GSM3424671,,,,NA,,Segugio Italiano Pelo Forte,
+GSM3424674,GSM3424674,,,,NA,,Segugio Italiano Pelo Forte,
+GSM3424676,GSM3424676,,,,NA,,Segugio Italiano Pelo Forte,
+GSM3424686,GSM3424686,,,,NA,,Segugio Italiano Pelo Raso,
+GSM3502155,GSM3502155,,,,NA,,Greenland Dog,
+GSM3502231,GSM3502231,,,,NA,,Mudi,
+GSM4195670,GSM4195670,,,,gastric dilatation-volvulus: Acute_GDV,,Golden retriever,
+GSM4195720,GSM4195720,,,,gastric dilatation-volvulus: HC,,Borzoi,
+GSM4195725,GSM4195725,,,,gastric dilatation-volvulus: Acute_GDV,,Golden retriever,
+GSM4195730,GSM4195730,,,,gastric dilatation-volvulus: HC,,Borzoi,
+GSM4195734,GSM4195734,,,,gastric dilatation-volvulus: HC,,Borzoi,
+GSM4195737,GSM4195737,,,,gastric dilatation-volvulus: HC,,Borzoi,
+GSM4195743,GSM4195743,,,,gastric dilatation-volvulus: Acute_GDV,,Collie Smooth,
+GSM4195766,GSM4195766,,,,gastric dilatation-volvulus: HC,,Borzoi,
+GSM4195769,GSM4195769,,,,gastric dilatation-volvulus: HC,,Borzoi,
+GSM4195774,GSM4195774,,,,gastric dilatation-volvulus: HC,,Borzoi,
+GSM4195791,GSM4195791,,,,gastric dilatation-volvulus: Acute_GDV,,German Shepherd,
+GSM4195798,GSM4195798,,,,gastric dilatation-volvulus: Acute_GDV,,Doberman,
+GSM4195821,GSM4195821,,,,gastric dilatation-volvulus: Acute_GDV,,Golden retriever,
+GSM4195844,GSM4195844,,,,gastric dilatation-volvulus: HC,,German Shepherd Pointer,
+GSM4195851,GSM4195851,,,,gastric dilatation-volvulus: Acute_GDV,,Borzoi,
+GSM4275090,GSM4275090,,,,NA,,NA,
+GSM4432301,GSM4432301,,,,NA,,Australian Labradoodle,
+GSM4432320,GSM4432320,,,,NA,,Labrador Retriever,
+GSM4432330,GSM4432330,,,,NA,,Labrador Retriever,
+GSM4432343,GSM4432343,,,,NA,,Labradoodle,
+GSM4987167,GSM4987167,,,,NA,,Flatcoated retriever,
+GSM4987175,GSM4987175,,,,NA,,Flatcoated retriever,
+GSM4987180,GSM4987180,,,,NA,,Flatcoated retriever,
+GSM4987184,GSM4987184,,,,NA,,Flatcoated retriever,
+GSM4987195,GSM4987195,,,,NA,,Flatcoated retriever,
+GSM4987204,GSM4987204,,,,NA,,Flatcoated retriever,
+GSM4987209,GSM4987209,,,,NA,,Flatcoated retriever,
+GSM4987217,GSM4987217,,,,NA,,Flatcoated retriever,
+GSM4987232,GSM4987232,,,,NA,,Flatcoated retriever,
+GSM4987238,GSM4987238,,,,NA,,Flatcoated retriever,
+GSM4987256,GSM4987256,,,,NA,,Flatcoated retriever,
+GSM4987259,GSM4987259,,,,NA,,Flatcoated retriever,
+GSM4987260,GSM4987260,,,,NA,,Flatcoated retriever,
+GSM4987264,GSM4987264,,,,NA,,Flatcoated retriever,
+GSM4987266,GSM4987266,,,,NA,,Flatcoated retriever,
+GSM4987272,GSM4987272,,,,NA,,Flatcoated retriever,
+GSM4987273,GSM4987273,,,,NA,,Flatcoated retriever,
+GSM4987287,GSM4987287,,,,NA,,Flatcoated retriever,
+GSM4987312,GSM4987312,,,,NA,,Flatcoated retriever,
+GSM4987314,GSM4987314,,,,NA,,Flatcoated retriever,
+GSM4987347,GSM4987347,,,,NA,,Flatcoated retriever,
+GSM4987357,GSM4987357,,,,NA,,Flatcoated retriever,
+GSM4987371,GSM4987371,,,,NA,,Flatcoated retriever,
+GSM4987412,GSM4987412,,,,NA,,Flatcoated retriever,
+GSM4987420,GSM4987420,,,,NA,,Flatcoated retriever,
+GSM4987424,GSM4987424,,,,NA,,Flatcoated retriever,
+GSM4987437,GSM4987437,,,,NA,,Flatcoated retriever,
+GSM4987439,GSM4987439,,,,NA,,Flatcoated retriever,
+GSM4987443,GSM4987443,,,,NA,,Flatcoated retriever,
+GSM4987446,GSM4987446,,,,NA,,Flatcoated retriever,
+GSM4987461,GSM4987461,,,,NA,,Flatcoated retriever,
+GSM4987465,GSM4987465,,,,NA,,Flatcoated retriever,
+GSM4987467,GSM4987467,,,,NA,,Flatcoated retriever,
+GSM4987468,GSM4987468,,,,NA,,Flatcoated retriever,
+GSM4987472,GSM4987472,,,,NA,,Flatcoated retriever,
+GSM4987474,GSM4987474,,,,NA,,Flatcoated retriever,
+GSM5799294,GSM5799294,,,,NA,,Patagonian Ovejero Dog ,
+GSM5799344,GSM5799344,,,,NA,,Patagonian Ovejero Dog ,
+GSM5799347,GSM5799347,,,,NA,,Patagonian Ovejero Dog ,
+GSM5799350,GSM5799350,,,,NA,,Patagonian Ovejero Dog ,
+GSM5799351,GSM5799351,,,,NA,,Patagonian Ovejero Dog ,
+GSM5799352,GSM5799352,,,,NA,,Patagonian Ovejero Dog ,
+GSM5799385,GSM5799385,,,,NA,,Patagonian Ovejero Dog ,
+GSM5799400,GSM5799400,,,,NA,,Patagonian Ovejero Dog ,
+AD-GR_001_Golden,AD-GR_001_Golden,,,,LSA,,NA,
+AD-GR_002_Golden,AD-GR_002_Golden,,,,LSA,,NA,
+AD-GR_006_Golden,AD-GR_006_Golden,,,,LSA,,NA,
+AD-GR_008_Golden,AD-GR_008_Golden,,,,LSA,,NA,
+AD-GR_009_Golden,AD-GR_009_Golden,,,,LSA,,NA,
+AD-GR_013_Golden,AD-GR_013_Golden,,,,LSA,,NA,
+AD-GR_015_Golden,AD-GR_015_Golden,,,,LSA,,NA,
+AD-GR_016_Golden,AD-GR_016_Golden,,,,LSA,,NA,
+AD-GR_017_Golden,AD-GR_017_Golden,,,,LSA,,NA,
+AD-GR_018_Golden,AD-GR_018_Golden,,,,LSA,,NA,
+AD-GR_020_Golden,AD-GR_020_Golden,,,,LSA,,NA,
+AD-GR_032_Golden,AD-GR_032_Golden,,,,LSA,,NA,
+AD-GR_033_Golden,AD-GR_033_Golden,,,,LSA,,NA,
+AD-GR_036_Golden,AD-GR_036_Golden,,,,LSA,,NA,
+AD-GR_037_Golden,AD-GR_037_Golden,,,,LSA,,NA,
+AD-GR_038_Golden,AD-GR_038_Golden,,,,LSA,,NA,
+AD-GR_040_Golden,AD-GR_040_Golden,,,,LSA,,NA,
+AD-GR_041_Golden,AD-GR_041_Golden,,,,LSA,,NA,
+AD-GR_042_Golden,AD-GR_042_Golden,,,,LSA,,NA,
+AD-GR_045_Golden,AD-GR_045_Golden,,,,LSA,,NA,
+AD-GR_048_Golden,AD-GR_048_Golden,,,,LSA,,NA,
+AD-GR_052_Golden,AD-GR_052_Golden,,,,LSA,,NA,
+AD-GR_053_Golden,AD-GR_053_Golden,,,,LSA,,NA,
+AD-GR_056_Golden,AD-GR_056_Golden,,,,LSA,,NA,
+AD-GR_058_Golden,AD-GR_058_Golden,,,,LSA,,NA,
+AD-GR_059_Golden,AD-GR_059_Golden,,,,LSA,,NA,
+AD-GR_063_Golden,AD-GR_063_Golden,,,,LSA,,NA,
+AD-GR_066_Golden,AD-GR_066_Golden,,,,LSA,,NA,
+AD-GR_067_Golden,AD-GR_067_Golden,,,,LSA,,NA,
+AD-GR_071_Golden,AD-GR_071_Golden,,,,LSA,,NA,
+CFA009092_unk,CFA009092_unk,,,,NA,,NA,
+CFA009151_unk,CFA009151_unk,,,,NA,,NA,
+CFA009157_unk,CFA009157_unk,,,,NA,,NA,
+CFA009168_unk,CFA009168_unk,,,,NA,,NA,
+CFA009212_unk,CFA009212_unk,,,,NA,,NA,
+CFA009242_unk,CFA009242_unk,,,,NA,,NA,
+CFA009542_unk,CFA009542_unk,,,,NA,,NA,
+CFA009576_unk,CFA009576_unk,,,,NA,,NA,
+CFA009605_unk,CFA009605_unk,,,,NA,,NA,
+CFA009612_unk,CFA009612_unk,,,,NA,,NA,
+GOLDEN_BI_9159_BI_9159,GOLDEN_BI_9159_BI_9159,,,,,,Golden retriever,
+GOLDEN_BI_37449_BI_37449,GOLDEN_BI_37449_BI_37449,,,,,,Golden retriever,
+GOLDEN_BI_37459_BI_37459,GOLDEN_BI_37459_BI_37459,,,,,,Golden retriever,
+GREY_BI_2871_BROAD_2871,GREY_BI_2871_BROAD_2871,,,,,,Greyhound,
+GREY_BI_3198_BROAD_3198,GREY_BI_3198_BROAD_3198,,,,,,Greyhound,
+GREY_BI_3488_BROAD_3488,GREY_BI_3488_BROAD_3488,,,,,,Greyhound,
+GREY_BI_3489_BROAD_3489,GREY_BI_3489_BROAD_3489,,,,,,Greyhound,
+GREY_BI_3491_BROAD_3491,GREY_BI_3491_BROAD_3491,,,,,,Greyhound,
+GREY_BI_3496_BROAD_3496,GREY_BI_3496_BROAD_3496,,,,,,Greyhound,
+GREY_BI_3598_BROAD_3598,GREY_BI_3598_BROAD_3598,,,,,,Greyhound,
+GREY_BI_3747_BROAD_3747,GREY_BI_3747_BROAD_3747,,,,,,Greyhound,
+GREY_BI_3749_BROAD_3749,GREY_BI_3749_BROAD_3749,,,,,,Greyhound,
+GREY_BI_3761_BROAD_3761,GREY_BI_3761_BROAD_3761,,,,,,Greyhound,
+GREY_BI_3986_BROAD_3986,GREY_BI_3986_BROAD_3986,,,,,,Greyhound,
+GREY_BI_4973_BROAD_4973,GREY_BI_4973_BROAD_4973,,,,,,Greyhound,
+GREY_BI_5234_BROAD_5234,GREY_BI_5234_BROAD_5234,,,,,,Greyhound,
+GREY_BI_5422_BROAD_5422,GREY_BI_5422_BROAD_5422,,,,,,Greyhound,
+GREY_BI_5935_BROAD_5935,GREY_BI_5935_BROAD_5935,,,,,,Greyhound,
+GREY_BI_6166_BROAD_6166,GREY_BI_6166_BROAD_6166,,,,,,Greyhound,
+GREY_BI_6197_BROAD_6197,GREY_BI_6197_BROAD_6197,,,,,,Greyhound,
+GREY_BI_6198_BROAD_6198,GREY_BI_6198_BROAD_6198,,,,,,Greyhound,
+GREY_BI_6199_BROAD_6199,GREY_BI_6199_BROAD_6199,,,,,,Greyhound,
+GREY_BI_6201_BROAD_6201,GREY_BI_6201_BROAD_6201,,,,,,Greyhound,
+GREY_BI_6202_BROAD_6202,GREY_BI_6202_BROAD_6202,,,,,,Greyhound,
+GREY_BI_6203_BROAD_6203,GREY_BI_6203_BROAD_6203,,,,,,Greyhound,
+GREY_BI_6205_BROAD_6205,GREY_BI_6205_BROAD_6205,,,,,,Greyhound,
+GREY_BI_6207_BROAD_6207,GREY_BI_6207_BROAD_6207,,,,,,Greyhound,
+GREY_BI_6208_BROAD_6208,GREY_BI_6208_BROAD_6208,,,,,,Greyhound,
+GREY_BI_6209_BROAD_6209,GREY_BI_6209_BROAD_6209,,,,,,Greyhound,
+GREY_BI_6214_BROAD_6214,GREY_BI_6214_BROAD_6214,,,,,,Greyhound,
+GREY_BI_6221_BROAD_6221,GREY_BI_6221_BROAD_6221,,,,,,Greyhound,
+GREY_BI_6222_BROAD_6222,GREY_BI_6222_BROAD_6222,,,,,,Greyhound,
+GREY_BI_6512_BROAD_6512,GREY_BI_6512_BROAD_6512,,,,,,Greyhound,
+GREY_BI_6513_BROAD_6513,GREY_BI_6513_BROAD_6513,,,,,,Greyhound,
+GREY_BI_6533_BROAD_6533,GREY_BI_6533_BROAD_6533,,,,,,Greyhound,
+GREY_BI_6553_BROAD_6553,GREY_BI_6553_BROAD_6553,,,,,,Greyhound,
+GREY_BI_6554_BROAD_6554,GREY_BI_6554_BROAD_6554,,,,,,Greyhound,
+GREY_BI_6555_BROAD_6555,GREY_BI_6555_BROAD_6555,,,,,,Greyhound,
+GREY_BI_6556_BROAD_6556,GREY_BI_6556_BROAD_6556,,,,,,Greyhound,
+GREY_BI_6561_BROAD_6561,GREY_BI_6561_BROAD_6561,,,,,,Greyhound,
+GREY_BI_6563_BROAD_6563,GREY_BI_6563_BROAD_6563,,,,,,Greyhound,
+GREY_BI_6564_BROAD_6564,GREY_BI_6564_BROAD_6564,,,,,,Greyhound,
+GREY_BI_6584_BROAD_6584,GREY_BI_6584_BROAD_6584,,,,,,Greyhound,
+GREY_BI_6585_BROAD_6585,GREY_BI_6585_BROAD_6585,,,,,,Greyhound,
+GREY_BI_6587_BROAD_6587,GREY_BI_6587_BROAD_6587,,,,,,Greyhound,
+GREY_BI_6595_BROAD_6595,GREY_BI_6595_BROAD_6595,,,,,,Greyhound,
+GREY_BI_6645_BROAD_6645,GREY_BI_6645_BROAD_6645,,,,,,Greyhound,
+GREY_BI_6992_BROAD_6992,GREY_BI_6992_BROAD_6992,,,,,,Greyhound,
+GREY_BI_6993_BROAD_6993,GREY_BI_6993_BROAD_6993,,,,,,Greyhound,
+GREY_BI_6998_BROAD_6998,GREY_BI_6998_BROAD_6998,,,,,,Greyhound,
+GREY_BI_7002_BROAD_7002,GREY_BI_7002_BROAD_7002,,,,,,Greyhound,
+GREY_BI_7007_BROAD_7007,GREY_BI_7007_BROAD_7007,,,,,,Greyhound,
+GREY_BI_7010_BROAD_7010,GREY_BI_7010_BROAD_7010,,,,,,Greyhound,
+GREY_BI_7011_BROAD_7011,GREY_BI_7011_BROAD_7011,,,,,,Greyhound,
+GREY_BI_7389_BROAD_7389,GREY_BI_7389_BROAD_7389,,,,,,Greyhound,
+GREY_BI_9460_BROAD_9460,GREY_BI_9460_BROAD_9460,,,,,,Greyhound,
+GREY_BI_9643_BROAD_9643,GREY_BI_9643_BROAD_9643,,,,,,Greyhound,
+GREY_BI_9644_BROAD_9644,GREY_BI_9644_BROAD_9644,,,,,,Greyhound,
+GREY_BI_10973_BROAD_10973,GREY_BI_10973_BROAD_10973,,,,,,Greyhound,
+GREY_BI_11103_BROAD_11103,GREY_BI_11103_BROAD_11103,,,,,,Greyhound,
+GREY_BI_11105_BROAD_11105,GREY_BI_11105_BROAD_11105,,,,,,Greyhound,
+GREY_BI_11111_BROAD_11111,GREY_BI_11111_BROAD_11111,,,,,,Greyhound,
+GREY_BI_11392_BROAD_11392,GREY_BI_11392_BROAD_11392,,,,,,Greyhound,
+GREY_BI_20721_BROAD_20721,GREY_BI_20721_BROAD_20721,,,,,,Greyhound,
+GREY_BI_24085_BROAD_24085,GREY_BI_24085_BROAD_24085,,,,,,Greyhound,
+GREY_BI_25031_BROAD_25031,GREY_BI_25031_BROAD_25031,,,,,,Greyhound,
+GREY_BI_25857_BROAD_25857,GREY_BI_25857_BROAD_25857,,,,,,Greyhound,
+GREY_BI_26458_BROAD_26458,GREY_BI_26458_BROAD_26458,,,,,,Greyhound,
+GREY_BI_26711_BROAD_26711,GREY_BI_26711_BROAD_26711,,,,,,Greyhound,
+GREY_BI_27441_BROAD_27441,GREY_BI_27441_BROAD_27441,,,,,,Greyhound,
+GREY_BI_29932_BROAD_29932,GREY_BI_29932_BROAD_29932,,,,,,Greyhound,
+GREY_BI_16282_BROAD_16282,GREY_BI_16282_BROAD_16282,,,,,,Greyhound,
+GR_BI_21207_BROAD_21207_iid,GR_BI_21207_BROAD_21207_iid,,,,,,Golden retriever,
+GR_BI_12231_BROAD_12231,GR_BI_12231_BROAD_12231,,,,,,Golden retriever,
+ROTT_BI_25314_BROAD_25314,ROTT_BI_25314_BROAD_25314,,,,,,Rottweiler,
+IWH_BI_5919_BROAD_5919_iid,IWH_BI_5919_BROAD_5919_iid,,,,,,IWH,
+GREY_BI_14236_BROAD_14236,GREY_BI_14236_BROAD_14236,,,,,,Greyhound,
+GREY_BI_40952_BROAD_40952,GREY_BI_40952_BROAD_40952,,,,,,Greyhound,
+GREY_BI_36610_BROAD_36610,GREY_BI_36610_BROAD_36610,,,,,,Greyhound,
+GREY_BI_36522_BROAD_36522,GREY_BI_36522_BROAD_36522,,,,,,Greyhound,
+GREY_BI_33638_BROAD_33638,GREY_BI_33638_BROAD_33638,,,,,,Greyhound,
+GREY_BI_41632_BROAD_41632,GREY_BI_41632_BROAD_41632,,,,,,Greyhound,
+GREY_BI_Label_726_LABEL_726,GREY_BI_Label_726_LABEL_726,,,,,,Greyhound,
+GREY_BI_29688_BROAD_29688,GREY_BI_29688_BROAD_29688,,,,,,Greyhound,
+GREY_BI_29147_BROAD_29147,GREY_BI_29147_BROAD_29147,,,,,,Greyhound,
+GREY_BI_3602_BROAD_3602,GREY_BI_3602_BROAD_3602,,,,,,Greyhound,
+GREY_BI_39581_BROAD_39581,GREY_BI_39581_BROAD_39581,,,,,,Greyhound,
+GREY_BI_34515_BROAD_34515,GREY_BI_34515_BROAD_34515,,,,,,Greyhound,
+GREY_BI_3490_BROAD_3490,GREY_BI_3490_BROAD_3490,,,,,,Greyhound,
+GREY_BI_41173_BROAD_41173,GREY_BI_41173_BROAD_41173,,,,,,Greyhound,
+GREY_BI_38287_BROAD_38287,GREY_BI_38287_BROAD_38287,,,,,,Greyhound,
+GREY_BI_35065_BROAD_35065,GREY_BI_35065_BROAD_35065,,,,,,Greyhound,
+GREY_BI_Label_724_LABEL_724,GREY_BI_Label_724_LABEL_724,,,,,,Greyhound,
+GREY_BI_Label_725_LABEL_725,GREY_BI_Label_725_LABEL_725,,,,,,Greyhound,
+GREY_BI_Label_736_LABEL_736,GREY_BI_Label_736_LABEL_736,,,,,,Greyhound,
+GREY_BI_Label_879_LABEL_879,GREY_BI_Label_879_LABEL_879,,,,,,Greyhound,
+GREY_BI_3593_BROAD_3593,GREY_BI_3593_BROAD_3593,,,,,,Greyhound,
+GREY_BI_2933_BROAD_2933,GREY_BI_2933_BROAD_2933,,,,,,Greyhound,
+GREY_BI_33639_BROAD_33639,GREY_BI_33639_BROAD_33639,,,,,,Greyhound,
+GREY_BI_27090_BROAD_27090,GREY_BI_27090_BROAD_27090,,,,,,Greyhound,
+GREY_BI_30126_BROAD_30126,GREY_BI_30126_BROAD_30126,,,,,,Greyhound,
+GREY_BI_3967_BROAD_3967,GREY_BI_3967_BROAD_3967,,,,,,Greyhound,
+GREY_BI_34710_BROAD_34710,GREY_BI_34710_BROAD_34710,,,,,,Greyhound,
+1917,BI_01917,,,,,Healthy,Golden Retriever,Female
+1933,BI_01933,,,,,Tumor (anal gland),Golden Retriever,Male
+1947,BI_01947,,,,,Healthy,Golden Retriever,Female
+1949,BI_01949,,,,,Healthy,Golden Retriever,Female
+1987,BI_01987,,,,,Healthy,Golden Retriever,Female
+2021,BI_02021,,,,,,,
+2112,BI_02112,,,,,Cataracts,Golden Retriever,Female
+2139,BI_02139,,,,,Healthy,Golden Retriever,Male
+2148,BI_02148,,,,,Congestive heart failure,Golden Retriever,Female
+2157,BI_02157,,,,,Healthy,Golden Retriever,Female
+2178,BI_02178,,,,,Healthy,Golden Retriever,Male
+2223,BI_02223,,,,,Healthy,Golden Retriever,Female
+2225,BI_02225,,,,,Healthy,Golden Retriever,Female
+2231,BI_02231,,,,,Healthy,Golden Retriever,Female
+2287,BI_02287,,,,,Healthy,Golden Retriever,Male
+2320,BI_02320,,,,,Healthy,Golden Retriever,Male
+2323,BI_02323,,,,,Healthy,Golden Retriever,Male
+2326,BI_02326,,,,,Cancer,Golden Retriever,Male
+2354,BI_02354,,,,,Healthy,Golden Retriever,Male
+2623,BI_02623,,,,,Immune-mediated Hemolytic Anemia (IMHA),Golden Retriever,Male
+2629,BI_02629,,,,,Healthy,Golden Retriever,Male
+2634,BI_02634,,,,,Healthy,Golden Retriever,Female
+2635,BI_02635,,,,,Carcinoma (Squamous Cell),Golden Retriever,Female
+2654,BI_02654,,,,,Inflammatory Bowel Disease,Golden Retriever,Male
+2659,BI_02659,,,,,Healthy,Golden Retriever,Female
+2972,BI_02972,,,,,cortical cataracts,Golden Retriever,Female
+3648,BI_03648,,,,,Healthy,Golden Retriever,Female
+3684,BI_03684,,,,,Healthy,Golden Retriever,Male
+3686,BI_03686,,,,,Healthy,Golden Retriever,Female
+3688,BI_03688,,,,,Healthy,Golden Retriever,Male
+3689,BI_03689,,,,,Allergies,Golden Retriever,Female
+3690,BI_03690,,,,,Healthy,Golden Retriever,Female
+9071,BI_09071,,,,,Healthy,Golden Retriever,Female
+9101,BI_09101,,,,,Healthy,Golden Retriever,Male
+9117,BI_09117,,,,,Healthy,Golden Retriever,Female
+9140,BI_09140,,,,,Arthritis,Golden Retriever,Female
+9196,BI_09196,,,,,Arthritis,Golden Retriever,Male
+9203,BI_09203,,,,,Healthy,Golden Retriever,Male
+9217,BI_09217,,,,,Healthy,Golden Retriever,Female
+9218,BI_09218,,,,,Healthy,Golden Retriever,Female
+9292,BI_09292,,,,,Healthy,Golden Retriever,Female
+11264,BI_11264,,,,,Healthy,Golden Retriever,Female
+12222,BI_12222,,,,,Healthy,Golden Retriever,Female
+12224,BI_12224,,,,,Healthy,Golden Retriever,Male
+12225,BI_12225,,,,,,,
+2279,BI_02279,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+2292,BI_02292,,,,,Hemangiosarcoma (Skin/Cuaneous),Golden Retriever,Female
+9301,BI_09301,,,,,,,
+2487,BI_02487,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+2491,BI_02491,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Female
+2535,BI_02535,,,,,Hemangiosarcoma (Heart),Golden Retriever,Female
+2568,BI_02568,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+2657,BI_02657,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+2657,BI_02657,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+2980,BI_02980,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+3230,BI_03230,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+3269,BI_03269,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+3564,BI_03564,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Male
+3568,BI_03568,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Male
+3573,BI_03573,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Female
+3723,BI_03723,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Female
+3743,BI_03743,,,,,,,
+3837,BI_03837,,,,,,,
+5479,BI_05479,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+5517,BI_05517,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+5954,BI_05954,,,,,,,
+5959,BI_05959,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+9294,BI_09294,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+9296,BI_09296,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+9297,BI_09297,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+9298,BI_09298,,,,,Hemangiosarcoma (Skin/Cuaneous),Golden Retriever,Male
+9304,BI_09304,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+9370,BI_09370,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+9372,BI_09372,,,,,Hemangiosarcoma (Questionable),Golden Retriever,0
+9373,BI_09373,,,,,Hemangiosarcoma (Liver),Golden Retriever,Male
+9374,BI_09374,,,,,Hemangiosarcoma (Heart),Golden Retriever,Male
+9377,BI_09377,,,,,Hemangiosarcoma (Heart),Golden Retriever,Female
+9379,BI_09379,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+9448,BI_09448,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+9450,BI_09450,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+9451,BI_09451,,,,,Hemangiosarcoma (Heart),Golden Retriever,Female
+9731,BI_09731,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+10807,BI_10807,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+11043,BI_11043,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+11080,BI_11080,,,,,Hemangiosarcoma (Heart),Golden Retriever,Male
+11095,BI_11095,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+11112,BI_11112,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Male
+11591,BI_11591,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Female
+11648,BI_11648,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+11788,BI_11788,,,,,Hemangiosarcoma (Spleen),Golden Retriever,0
+11789,BI_11789,,,,,Hemangiosarcoma (Spleen),Golden Retriever,0
+11790,BI_11790,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+11791,BI_11791,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+12684,BI_12684,,,,,Healthy,Golden Retriever,Female
+12971,BI_12971,,,,,Healthy,Golden Retriever,Female
+12972,BI_12972,,,,,Healthy,Golden Retriever,Male
+14428,BI_14428,,,,,Healthy,Golden Retriever,Female
+2189,BI_02189,,,,,Healthy,Golden Retriever,Male
+20300,BI_20300,,,,,Erlichiosis,Golden Retriever,Female
+20301,BI_20301,,,,,Uveitis,Golden Retriever,Male
+1940,BI_01940,,,,,Acute Renal Failure (toxicant),Golden Retriever,Female
+1942,BI_01942,,,,,Healthy,Golden Retriever,Female
+1945,BI_01945,,,,,Healthy,Golden Retriever,Male
+1955,BI_01955,,,,,Peritonitis,Golden Retriever,Male
+1979,BI_01979,,,,,Lyme disease,Golden Retriever,Female
+2010,BI_02010,,,,,Healthy,Golden Retriever,Female
+2015,BI_02015,,,,,Healthy,Golden Retriever,Male
+2037,BI_02037,,,,,Healthy,Golden Retriever,Male
+2041,BI_02041,,,,,Healthy,Golden Retriever,Female
+2044,BI_02044,,,,,Healthy,Golden Retriever,Female
+2062,BI_02062,,,,,Healthy,Golden Retriever,Male
+2070,BI_02070,,,,,Healthy,Golden Retriever,Female
+2077,BI_02077,,,,,Healthy,Golden Retriever,Female
+2085,BI_02085,,,,,Healthy,Golden Retriever,Female
+2122,BI_02122,,,,,Healthy,Golden Retriever,Male
+2123,BI_02123,,,,,Other,Golden Retriever,Male
+2124,BI_02124,,,,,Healthy,Golden Retriever,Female
+2130,BI_02130,,,,,Healthy,Golden Retriever,Female
+2132,BI_02132,,,,,Cushing's disease,Golden Retriever,Female
+2135,BI_02135,,,,,Healthy,Golden Retriever,Male
+2136,BI_02136,,,,,Healthy,Golden Retriever,Female
+2145,BI_02145,,,,,Healthy,Golden Retriever,Female
+2159,BI_02159,,,,,Healthy,Golden Retriever,Male
+2164,BI_02164,,,,,Healthy,Golden Retriever,Male
+2173,BI_02173,,,,,Healthy,Golden Retriever,Female
+2177,BI_02177,,,,,Healthy,Golden Retriever,Male
+11848,BI_11848,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+12051,BI_12051,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Female
+12052,BI_12052,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Male
+12053,BI_12053,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Female
+12215,BI_12215,,,,,Hemangiosarcoma (Skin/Cuaneous),Golden Retriever,Male
+12216,BI_12216,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+12228,BI_12228,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+12233,BI_12233,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+12234,BI_12234,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+12236,BI_12236,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+12237,BI_12237,,,,,Hemangiosarcoma (Spleen),Golden Retriever,0
+12238,BI_12238,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+12239,BI_12239,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+12240,BI_12240,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+12241,BI_12241,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+12242,BI_12242,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+12243,BI_12243,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+12244,BI_12244,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+12245,BI_12245,,,,,Hemangiosarcoma (Liver),Golden Retriever,Male
+12246,BI_12246,,,,,Hemangiosarcoma (Liver),Golden Retriever,Female
+12507,BI_12507,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,0
+12508,BI_12508,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Male
+12509,BI_12509,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+12512,BI_12512,,,,,Hemangiosarcoma (Spleen),Golden Retriever,0
+12914,BI_12914,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+14061,BI_14061,,,,,Hemangiosarcoma (Heart),Golden Retriever,Male
+14062,BI_14062,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+14242,BI_14242,,,,,Hemangiosarcoma (Skin/Cuaneous),Golden Retriever,Female
+14475,BI_14475,,,,,Hemangiosarcoma (Heart),Golden Retriever,Male
+14532,BI_14532,,,,,Other,Golden Retriever,Male
+14688,BI_14688,,,,,Mast Cell Tumor Grade II,Golden Retriever,Female
+16274,BI_16274,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+19485,BI_19485,,,,,Cushing's disease,Golden Retriever,Female
+20700,BI_20700,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+21420,BI_21420,,,,,Hemangiosarcoma (Skin/Cuaneous),Golden Retriever,Male
+22751,BI_22751,,,,,Hemangiosacoma (splenic),Golden Retriever,Male
+27041,BI_27041,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+27445,BI_27445,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+43922,BI_43922,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+46939,BI_46939,,,,,Hemagiosarcoma,Golden Retriever,Female
+2636,BI_02636,,,,,Hypothyroidism,Golden Retriever,Male
+3195,BI_03195,,,,,Osteosacroma (suspect) ,Golden Retriever,Female
+3883,BI_03883,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+2111,BI_02111,,,,,Hemangiosarcoma,Golden Retriever,Male
+2356,BI_02356,,,,,Hemangiosacoma (splenic),Golden Retriever,Male
+12717,BI_12717,,,,,Hemangiosarcoma (All),Golden Retriever,Female
+42835,BI_42835,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+42837,BI_42837,,,,,Hemangiosacoma (splenic/liver),Golden Retriever,Female
+1913,BI_01913,,,,,Hypothyroidism,Golden Retriever,Female
+2061,BI_02061,,,,,Hemangiosarcoma (Heart),Golden Retriever,Female
+2165,BI_02165,,,,,Hemangiosarcoma (Heart),Golden Retriever,Female
+2350,BI_02350,,,,,Hemangiosarcoma (Heart),Golden Retriever,Female
+3672,BI_03672,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Female
+6499,BI_06499,,,,,Mass,Golden Retriever,Male
+11096,BI_11096,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Female
+11097,BI_11097,,,,,Hemangiosarcoma (Questionable),Golden Retriever,Female
+11115,BI_11115,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Female
+11117,BI_11117,,,,,Hemangiosarcoma (Questionable),Golden Retriever,Female
+11469,BI_11469,,,,,Hemangiosarcoma (Questionable),Golden Retriever,Female
+11546,BI_11546,,,,,Hemangiosarcoma (heart),Golden Retriever,Female
+11590,BI_11590,,,,,Hemangiosarcoma (Questionable),Golden Retriever,Male
+22819,BI_22819,,,,,Hemangiosarcoma (Heart),Golden Retriever,Female
+2074,BI_02074,,,,,Hemangiosarcoma (Heart),Golden Retriever,Female
+2299,BI_02299,,,,,Hemangiosarcoma (Heart),Golden Retriever,Female
+2200,BI_02200,,,,,Healthy,Golden Retriever,Female
+2202,BI_02202,,,,,Healthy,Golden Retriever,Female
+2206,BI_02206,,,,,Healthy,Golden Retriever,Male
+2218,BI_02218,,,,,Healthy,Golden Retriever,Male
+2234,BI_02234,,,,,Healthy,Golden Retriever,Male
+2235,BI_02235,,,,,Healthy,Golden Retriever,Male
+2238,BI_02238,,,,,Arthritis,Golden Retriever,Male
+2267,BI_02267,,,,,Hemangiosarcoma,Golden Retriever,Male
+2268,BI_02268,,,,,Healthy,Golden Retriever,Male
+2273,BI_02273,,,,,Healthy,Golden Retriever,Male
+2293,BI_02293,,,,,Healthy,Golden Retriever,Female
+2294,BI_02294,,,,,Healthy,Golden Retriever,Female
+2314,BI_02314,,,,,Stroke (suspected),Golden Retriever,Female
+2322,BI_02322,,,,,Healthy,Golden Retriever,Male
+2327,BI_02327,,,,,Healthy,Golden Retriever,Female
+2329,BI_02329,,,,,Healthy,Golden Retriever,Male
+2334,BI_02334,,,,,Healthy,Golden Retriever,Female
+2342,BI_02342,,,,,Healthy,Golden Retriever,Male
+2378,BI_02378,,,,,Healthy,Golden Retriever,Female
+2381,BI_02381,,,,,Healthy,Golden Retriever,Female
+2404,BI_02404,,,,,Healthy,Golden Retriever,Male
+2409,BI_02409,,,,,Osteoarthritis,Golden Retriever,Male
+2422,BI_02422,,,,,Healthy,Golden Retriever,Female
+2432,BI_02432,,,,,Healthy,Golden Retriever,Male
+2446,BI_02446,,,,,Testicular tumor (seminoma),Golden Retriever,Male
+2454,BI_02454,,,,,Cushing's disease,Golden Retriever,Female
+2455,BI_02455,,,,,Healthy,Golden Retriever,Female
+2458,BI_02458,,,,,Healthy,Golden Retriever,Female
+2476,BI_02476,,,,,Sinusitis,Golden Retriever,Male
+2478,BI_02478,,,,,Healthy,Golden Retriever,Female
+2484,BI_02484,,,,,Healthy,Golden Retriever,Female
+48565,BI_48565,,,,,,,
+48566,BI_48566,,,,,,,
+48567,BI_48567,,,,,,,
+48568,BI_48568,,,,,,,
+48569,BI_48569,,,,,,,
+48570,BI_48570,,,,,,,
+48571,BI_48571,,,,,,,
+48572,BI_48572,,,,,,,
+48573,BI_48573,,,,,,,
+48574,BI_48574,,,,,,,
+48554,BI_48554,,,,,,,
+48555,BI_48555,,,,,,,
+48556,BI_48556,,,,,,,
+48557,BI_48557,,,,,,,
+48558,BI_48558,,,,,,,
+48559,BI_48559,,,,,,,
+48560,BI_48560,,,,,,,
+48561,BI_48561,,,,,,,
+48562,BI_48562,,,,,,,
+48563,BI_48563,,,,,,,
+32771,BI_32771,,,,,Osteosarcoma (All),Greyhound,Male
+32903,BI_32903,,,,,,,
+34454,BI_34454,,,,,Healthy,Greyhound,Male
+39023,BI_39023,,,,,Osteosarcoma (All),Greyhound,Female
+48527,BI_48527,,,,,,,
+43571,BI_43571,,,,,Hemangiosarcoma (Heart),Golden Retriever,Female
+BI_12707,BI_12707.1,,,,,,,
+BI_12709,BI_12709.4,,,,,,,
+BI_14176,BI_14176.2,,,,,,,
+BI_14180,BI_14180.2,,,,,,,
+BI_14241,BI_14241.2,,,,,,,
+BI_14410,BI_14410.2,,,,,,,
+BI_14439,BI_14439.1,,,,,,,
+BI_14453,BI_14453.3,,,,,,,
+BI_14455,BI_14455.2,,,,,,,
+BI_14695,BI_14695.2,,,,,,,
+BI_14912,BI_14912.3,,,,,,,
+BI_12731,BI_12731.2,,,,,,,
+BI_14914,BI_14914.4,,,,,,,
+BI_14915,BI_14915.2,,,,,,,
+BI_14916,BI_14916.2,,,,,,,
+BI_14917,BI_14917.2,,,,,,,
+BI_14918,BI_14918.2,,,,,,,
+BI_14919,BI_14919.3,,,,,,,
+BI_14920,BI_14920.3,,,,,,,
+BI_14921,BI_14921.1,,,,,,,
+BI_14925,BI_14925.1,,,,,,,
+BI_14928,BI_14928.2,,,,,,,
+BI_14929,BI_14929.1,,,,,,,
+BI_14930,BI_14930.1,,,,,,,
+BI_14931,BI_14931.1,,,,,,,
+BI_14935,BI_14935.2,,,,,,,
+BI_14937,BI_14937.2,,,,,,,
+BI_14939,BI_14939.2,,,,,,,
+BI_14940,BI_14940.5,,,,,,,
+BI_14941,BI_14941.5,,,,,,,
+BI_14978,BI_14978.1,,,,,,,
+BI_15648,BI_15648.4,,,,,,,
+BI_15679,BI_15679.2,,,,,,,
+BI_15753,BI_15753.4,,,,,,,
+BI_15756,BI_15756.2,,,,,,,
+BI_15879,BI_15879.2,,,,,,,
+BI_15954,BI_15954.2,,,,,,,
+BI_16275,BI_16275.4,,,,,,,
+BI_19920,BI_19920.2,,,,,,,
+BI_19921,BI_19921.2,,,,,,,
+BI_19927,BI_19927.2,,,,,,,
+BI_20702,BI_20702.1,,,,,,,
+BI_21441,BI_21441.2,,,,,,,
+BI_21448,BI_21448.2,,,,,,,
+BI_21694,BI_21694.2,,,,,,,
+BI_22302,BI_22302.1,,,,,,,
+BI_22320,BI_22320.3,,,,,,,
+BI_22321,BI_22321.2,,,,,,,
+BI_28375,BI_28375.1,,,,,,,
+BI_41922,BI_41922,,,,,,,
+BI_41923,BI_41923,,,,,,,
+BI_41924,BI_41924,,,,,,,
+BI_41925,BI_41925,,,,,,,
+BI_41926,BI_41926,,,,,,,
+BI_41927,BI_41927,,,,,,,
+BI_01958,BI_1958.2,,,,,,,
+BI_02229,BI_2229.1,,,,,,,
+BI_14934,BI_14934.1,,,,,,,
+BI_02043,BI_2043,,,,,,,
+BI_02105,BI_2105,,,,,,,
+BI_02121,BI_2121,,,,,,,
+BI_28366,BI_28366,,,,,,,
+BI_73683,BI_73683,,,,,,,
+BI_02053,BI_2053,,,,,,,
+BI_69124,BI_69124,,,,,,,
+BI_69127,BI_69127,,,,,,,
+BI_69139,BI_69139,,,,,,,
+BI_01982,BI_1982,,,,,,,
+BI_02033,BI_2033,,,,,,,
+BI_02537,BI_2537,,,,,,,
+BI_02298,BI_2298,,,,,,,
+BI_02367,BI_2367,,,,,,,
+BI_73684,BI_73684,,,,,,,
+BI_02470,BI_2470,,,,,,,
+BI_02331,BI_2331,,,,,,,
+BI_02968,BI_2968,,,,,,,
+BI_27686,BI_27686,,,,,,,
+BI_69121,BI_69121,,,,,,,
+BI_69125,BI_69125,,,,,,,
+BI_02534,BI_2534,,,,,,,
+BI_69135,BI_69135,,,,,,,
+BI_01993,BI_1993,,,,,,,
+BI_69123,BI_69123,,,,,,,
+BI_69126,BI_69126,,,,,,,
+BI_02198,BI_2198,,,,,,,
+BI_73685,BI_73685,,,,,,,
+BI_01967,BI_1967,,,,,,,
+BI_02311,BI_2311,,,,,,,
+BI_73686,BI_73686,,,,,,,
+BI_69129,BI_69129,,,,,,,
+BI_02002,BI_2002,,,,,,,
+BI_02160,BI_2160,,,,,,,
+BI_69134,BI_69134,,,,,,,
+BI_69122,BI_69122,,,,,,,
+BI_69141,BI_69141,,,,,,,
+BI_02168,BI_2168,,,,,,,
+BI_69138,BI_69138,,,,,,,
+BI_43278,BI_43278,,,,,,,
+BI_01918,BI_1918,,,,,,,
+BI_03193,BI_3193,,,,,,,
+BI_09172,BI_9172,,,,,,,
+BI_6654,BI_6654,,,,,,,
+BI_10510,BI_10510,,,,,,,
+BI_11267,BI_11267,,,,,,,
+BI_7368,BI_7368,,,,,,,
+BI_9284,BI_9284,,,,,,,
+BI_24126,BI_24126,,,,,,,
+BI_24125,BI_24125,,,,,,,
+BI_9454,BI_9454,,,,,,,
+BI_12433,BI_12433,,,,,,,
+BI_6634,BI_6634,,,,,,,
+BI_7263,BI_7263,,,,,,,
+BI_3826,BI_3826,,,,,,,
+BI_3921,BI_3921,,,,,,,
+BI_25314,BI_25314,,,,,,,
+BI_24845,BI_24845,,,,,,,
+BI_26164,BI_26164,,,,,,,
+BI_25858,BI_25858,,,,,,,
+BI_33189,BI_33189,,,,,,,
+BI_11267,BI_11267,,,,,,,
+BI_26274,BI_26274,,,,,,,
+BI_26275,BI_26275,,,,,,,
+BI_26276,BI_26276,,,,,,,
+BI_26278,BI_26278,,,,,,,
+BI_26279,BI_26279,,,,,,,
+BI_26277,BI_26277,,,,,,,
+BI_26280,BI_26280,,,,,,,
+BI_26281,BI_26281,,,,,,,
+BI_26282,BI_26282,,,,,,,
+BI_26284,BI_26284,,,,,,,
+BI_26286,BI_26286,,,,,,,
+BI_26285,BI_26285,,,,,,,
+BI_26288,BI_26288,,,,,,,
+BI_26289,BI_26289,,,,,,,
+BI_26290,BI_26290,,,,,,,
+BI_26293,BI_26293,,,,,,,
+BI_26294,BI_26294,,,,,,,
+BI_26295,BI_26295,,,,,,,
+BI_26296,BI_26296,,,,,,,
+BI_26297,BI_26297,,,,,,,
+BI_26298,BI_26298,,,,,,,
+BI_26299,BI_26299,,,,,,,
+BI_26300,BI_26300,,,,,,,
+BI_26301,BI_26301,,,,,,,
+BI_26302,BI_26302,,,,,,,
+BI_26303,BI_26303,,,,,,,
+BI_26304,BI_26304,,,,,,,
+BI_26305,BI_26305,,,,,,,
+BI_26306,BI_26306,,,,,,,
+BI_26307,BI_26307,,,,,,,
+BI_26309,BI_26309,,,,,,,
+BI_26310,BI_26310,,,,,,,
+BI_26311,BI_26311,,,,,,,
+BI_26312,BI_26312,,,,,,,
+BI_26313,BI_26313,,,,,,,
+BI_3478,BI_3478,,,,,,,
+BI_2989,BI_2989,,,,,,,
+BI_24846,BI_24846,,,,,,,
+BI_24713,BI_24713,,,,,,,
+BI_3477,BI_3477,,,,,,,
+BI_3923,BI_3923,,,,,,,
+BI_4924,BI_4924,,,,,,,
+BI_2999,BI_2999,,,,,,,
+BI_4923,BI_4923,,,,,,,
+BI_29967,BI_29967,,,,,,,
+BI_3253,BI_3253,,,,,,,
+BI_3254,BI_3254,,,,,,,
+BI_21845,BI_21845,,,,,,,
+BI_21187,BI_21187,,,,,,,
+BI_3348,BI_3348,,,,,,,
+BI_9740,BI_9740,,,,,,,
+BI_11268,BI_11268,,,,,,,
+BI_33276,BI_33276,,,,,,,
+BI_33278,BI_33278,,,,,,,
+BI_46988,BI_46988,,,,,,,
+BI_30643,BI_30643,,,,,,,
+BI_59353,BI_59353,,,,,,,
+BI_46993,BI_46993,,,,,,,
+BI_34730,BI_34730,,,,,,,
+BI_34727,BI_34727,,,,,,,
+BI_14581,BI_14581,,,,,,,
+BI_14574,BI_14574,,,,,,,
+BI_14571,BI_14571,,,,,,,
+BI_14555,BI_14555,,,,,,,
+BI_14575,BI_14575,,,,,,,
+BI_14563,BI_14563,,,,,,,
+BI_14585,BI_14585,,,,,,,
+BI_14565,BI_14565,,,,,,,
+BI_14572,BI_14572,,,,,,,
+BI_14583,BI_14583,,,,,,,
+BI_69133,BI_69133,,,,,,,
+BI_69136,BI_69136,,,,,,,
+BI_27689,BI_27689,,,,,,,
+BI_69140,BI_69140,,,,,,,
+BI_69132,BI_69132,,,,,,,
+3718,Leonberger 3718,,,,,Healthy,Leonberger,Male
+3716,Leonberger 3716,,,,,Healthy,Leonberger,Female
+3717,Leonberger 3717,,,,,Healthy,Leonberger,Female
+3720,Leonberger 3720,,,,,Healthy,Leonberger,Female
+3722,Leonberger 3722,,,,,Healthy,Leonberger,Female
+15688,Leonberger 15688,,,,,Healthy,Leonberger,Female
+15680,Leonberger 15680,,,,,Healthy,Leonberger,Female
+14473,Leonberger 14473,,,,,Healthy,Leonberger,Female
+14461,Leonberger 14461,,,,,Healthy,Leonberger,Male
+24221,Leonberger 24221,,,,,Osteosarcoma ,Leonberger,Male
+14513,Leonberger 14513,,,,,Healthy,Leonberger,Male
+2572,Leonberger 2572,,,,,Hemangiosarcoma,Leonberger,Male
+2692,Leonberger 2692,,,,,Healthy,Leonberger,Female
+2695,Leonberger 2695,,,,,Healthy,Leonberger,Male
+2767,Leonberger 2767,,,,,Healthy,Leonberger,Female
+2769,Leonberger 2769,,,,,Healthy,Leonberger,Male
+2771,Leonberger 2771,,,,,Healthy,Leonberger,Female
+2772,Leonberger 2772,,,,,Healthy,Leonberger,Female
+2779,Leonberger 2779,,,,,Healthy,Leonberger,Male
+2782,Leonberger 2782,,,,,Healthy,Leonberger,Female
+2783,Leonberger 2783,,,,,Healthy,Leonberger,Female
+2788,Leonberger 2788,,,,,Healthy,Leonberger,Male
+2866,Leonberger 2866,,,,,Healthy,Leonberger,Female
+2860,Leonberger 2860,,,,,Healthy,Leonberger,Female
+2861,Leonberger 2861,,,,,Healthy,Leonberger,Male
+2868,Leonberger 2868,,,,,Stroke,Leonberger,Female
+3618,Leonberger 3618,,,,,Healthy,Leonberger,Female
+3623,Leonberger 3623,,,,,Healthy,Leonberger,Male
+3635,Leonberger 3635,,,,,Healthy,Leonberger,Male
+3637,Leonberger 3637,,,,,Healthy,Leonberger,Female
+3709,Leonberger 3709,,,,,Healthy,Leonberger,Male
+3730,Leonberger 3730,,,,,Healthy,Leonberger,Female
+3818,Leonberger 3818,,,,,Healthy,Leonberger,Female
+3840,Leonberger 3840,,,,,Healthy,Leonberger,Male
+3844,Leonberger 3844,,,,,Healthy,Leonberger,Female
+3846,Leonberger 3846,,,,,Healthy,Leonberger,Male
+3849,Leonberger 3849,,,,,Healthy,Leonberger,Female
+3851,Leonberger 3851,,,,,Healthy,Leonberger,Male
+3854,Leonberger 3854,,,,,Healthy,Leonberger,Female
+3855,Leonberger 3855,,,,,Healthy,Leonberger,Female
+3856,Leonberger 3856,,,,,Healthy,Leonberger,Male
+3864,Leonberger 3864,,,,,Healthy,Leonberger,Male
+3867,Leonberger 3867,,,,,Healthy,Leonberger,Female
+3868,Leonberger 3868,,,,,Healthy,Leonberger,Male
+3870,Leonberger 3870,,,,,Healthy,Leonberger,Female
+3873,Leonberger 3873,,,,,Healthy,Leonberger,Male
+3880,Leonberger 3880,,,,,Healthy,Leonberger,Female
+3424,Leonberger 3424,,,,,Healthy,Leonberger,Male
+3713,Leonberger 3713,,,,,Healthy,Leonberger,Male
+9660,Leonberger 9660,,,,,Healthy,Leonberger,Female
+12886,Leonberger 12886,,,,,Healthy,Leonberger,Male
+12890,Leonberger 12890,,,,,Healthy,Leonberger,Female
+12917,Leonberger 12917,,,,,Healthy,Leonberger,0
+14431,Leonberger 14431,,,,,Healthy,Leonberger,Female
+24225,Leonberger 24225,,,,,0,Leonberger,Female
+24226,Leonberger 24226,,,,,0,Leonberger,Female
+3791,Leonberger 3791,,,,,Healthy,Leonberger,Male
+3638,Leonberger 3638,,,,,Healthy,Leonberger,Female
+36545,Leonberger 36545,,,,,0,Leonberger,Male
+46176,Leonberger 46176,,,,,Healthy,Leonberger,Male
+181362,Leonberger 181362,,,,,Other,Leonberger,Female
+181349,Leonberger 181349,,,,,Healthy,Leonberger,Female
+181343,Leonberger 181343,,,,,Healthy,Leonberger,Male
+181351,Leonberger 181351,,,,,Healthy,Leonberger,Female
+181359,Leonberger 181359,,,,,Healthy,Leonberger,Female
+181358,Leonberger 181358,,,,,Healthy,Leonberger,Female
+181356,Leonberger 181356,,,,,Healthy,Leonberger,Male
+181357,Leonberger 181357,,,,,Healthy,Leonberger,Male
+181355,Leonberger 181355,,,,,Healthy,Leonberger,Female
+181354,Leonberger 181354,,,,,Healthy,Leonberger,Female
+181353,Leonberger 181353,,,,,Healthy,Leonberger,Female
+181350,Leonberger 181350,,,,,Healthy,Leonberger,Male
+181348,Leonberger 181348,,,,,Healthy,Leonberger,Male
+185421,Leonberger 185421,,,,,Healthy,Leonberger,Male
+185419,Leonberger 185419,,,,,Healthy,Leonberger,Female
+185420,Leonberger 185420,,,,,Pneumonia,Leonberger,Male
+185417,Leonberger 185417,,,,,Healthy,Leonberger,Female
+114725,Leonberger 114725,,,,,Leonberger Polyneuropathy,Leonberger,Male
+19576,Leonberger 19576,,,,,Osteosarcoma,Leonberger,Female
+181361,Leonberger 181361,,,,,Healthy,Leonberger,Male
+181360,Leonberger 181360,,,,,Healthy,Leonberger,Female
+185413,Leonberger 185413,,,,,Healthy,Leonberger,Male
+185412,Leonberger 185412,,,,,Healthy,Leonberger,Female
+185414,Leonberger 185414,,,,,Healthy,Leonberger,Male
+181347,Leonberger 181347,,,,,Healthy,Leonberger,0
+185411,Leonberger 185411,,,,,Healthy,Leonberger,Male
+181352,Leonberger 181352,,,,,Healthy,Leonberger,Male
+181344,Leonberger 181344,,,,,Healthy,Leonberger,Male
+181345,Leonberger 181345,,,,,Healthy,Leonberger,Male
+181346,Leonberger 181346,,,,,Healthy,Leonberger,Female
+3737,Leonberger 3737,,,,,Osteosarcoma,Leonberger,Male
+5916,Leonberger 5916,,,,,Osteosarcoma,Leonberger,Female
+11477,Leonberger 11477,,,,,Other,Leonberger,Male
+3735,Leonberger 3735,,,,,Osteosarcoma,Leonberger,Female
+12893,Leonberger 12893,,,,,Osteosarcoma (All),Leonberger,Male
+2872,Leonberger 2872,,,,,Osteosarcoma,Leonberger,Female
+3697,Leonberger 3697,,,,,Osteosarcoma,Leonberger,Female
+3700,Leonberger 3700,,,,,Osteosarcoma,Leonberger,Male
+3698,Leonberger 3698,,,,,Osteosarcoma,Leonberger,Female
+3699,Leonberger 3699,,,,,Osteosarcoma,Leonberger,Female
+3701,Leonberger 3701,,,,,Osteosarcoma,Leonberger,Female
+3794,Leonberger 3794,,,,,Osteosarcoma,Leonberger,Female
+3702,Leonberger 3702,,,,,Osteosarcoma,Leonberger,Male
+3696,Leonberger 3696,,,,,Osteosarcoma,Leonberger,Female
+3734,Leonberger 3734,,,,,Osteosarcoma,Leonberger,Male
+3447,Leonberger 3447,,,,,Osteosarcoma,Leonberger,0
+3448,Leonberger 3448,,,,,Osteosarcoma,Leonberger,Male
+3449,Leonberger 3449,,,,,Osteosarcoma,Leonberger,Male
+14954,Leonberger 14954,,,,,Osteosarcoma,Leonberger,Female
+14487,Leonberger 14487,,,,,Osteosarcoma,Leonberger,Female
+16279,Leonberger 16279,,,,,Osteosarcoma,Leonberger,Male
+14456,Leonberger 14456,,,,,Osteosarcoma,Leonberger,Male
+19576,Leonberger 19576,,,,,Osteosarcoma,Leonberger,Female
+3570,Leonberger 3570,,,,,Osteosarcoma,Leonberger,Male
+23156,Leonberger 23156,,,,,Osteosarcoma (All),Leonberger,Male
+24570,Leonberger 24570,,,,,Addison's disease,Leonberger,Male
+24217,Leonberger 24217,,,,,Hypothroidism,Leonberger,Male
+26082,Leonberger 26082,,,,,Osteosarcoma (All),Leonberger,Female
+27107,Leonberger 27107,,,,,Osteosarcoma,Leonberger,Female
+2786,Leonberger 2786,,,,,Healthy,Leonberger,Female
+2869,Leonberger 2869,,,,,Osteosarcoma ,Leonberger,Female
+3330,Leonberger 3330,,,,,Osteosarcoma (All),Leonberger,Female
+3843,Leonberger 3843,,,,,Hypothyroidism,Leonberger,Male
+3853,Leonberger 3853,,,,,,Leonberger,
+3861,Leonberger 3861,,,,,Osteosacroma,Leonberger,Male
+3866,Leonberger 3866,,,,,Healthy,Leonberger,Female
+3332,Leonberger 3332,,,,,Osteosarcoma ,Leonberger,Female
+6361,Leonberger 6361,,,,,Hypothyroidism,Leonberger,Male
+16273,Leonberger 16273,,,,,Osteosarcoma ,Leonberger,Male
+3887,Leonberger 3887,,,,,,Leonberger,
+24216,Leonberger 24216,,,,,Allergies,Leonberger,Female
+51391,Leonberger 51391,,,,,Osteosarcoma (All),Leonberger,Male
+82339,Leonberger 82339,,,,,Osteosacroma,Leonberger,Female
+252278,252278,,,,,Cardiomyopathy,Irish Wolfhound,Male
+181473,181473,,,,,Healthy,Irish Wolfhound,Female
+181472,181472,,,,,Other,Irish Wolfhound,Male
+247210,247210,,,,,Osteosarcoma ,Irish Wolfhound,Female
+232232,232232,,,,,Osteosarcoma ,Irish Wolfhound,Female
+252274,252274,,,,,Osteosarcoma ,Irish Wolfhound,Male
+164385,164385,,,,,Osteosarcoma ,Irish Wolfhound,Female
+5962,5962,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+7377,7377,,,,,Hypothyroidism,Golden Retriever,Male
+9070,9070,,,,,Hemangiosarcoma,Golden Retriever,Male
+9085,9085,,,,,Hemangiosarcoma,Golden Retriever,Female
+12248,12248,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Female
+12363,12363,,,,,Hemangiosarcoma (Questionable),Golden Retriever,Male
+12364,12364,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Male
+12657,12657,,,,,Hemangiosarcoma,Golden Retriever,Female
+12970,12970,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Male
+3685,3685,,,,,Hemangiosarcoma (Questionable),Golden Retriever,Female
+3784,3784,,,,,Hemangiosarcoma (Questionable),Golden Retriever,Male
+11094,11094,,,,,Ligament injury,Golden Retriever,Male
+15684,15684,,,,,Hemangiosarcoma (All),Golden Retriever,Female
+19482,19482,,,,,Hypothyroid,Golden Retriever,Female
+2619,2619,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Male
+20321,20321,,,,,Hemangiosarcoma (Questionable),Golden Retriever,Female
+21966,21966,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+21642,21642,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+22617,22617,,,,,Hemangiosarcoma (All),Golden Retriever,Female
+12227,12227,,,,,Hemangiosarcoma (Questionable),Golden Retriever,Male
+12220,12220,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+24087,24087,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+24086,24086,,,,,Hemangiosarcoma (All),Golden Retriever,Female
+24466,24466,,,,,Hemangiosarcoma (All),Golden Retriever,Female
+25614,25614,,,,,Hemangiosarcoma (Questionable),Golden Retriever,Female
+12969,12969,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Male
+26437,26437,,,,,Hemangiosarcoma (Heart),Golden Retriever,Female
+26913,26913,,,,,Hemangiosarcoma (Heart),Golden Retriever,Female
+28913,28913,,,,,Hemangiosarcoma (All),Golden Retriever,Female
+27547,27547,,,,,Hemangiosarcoma,Golden Retriever,Male
+27548,27548,,,,,Hemangiosarcoma (All),Golden Retriever,Female
+29283,29283,,,,,Hemangiosarcoma,Golden Retriever,Female
+3200,3200,,,,,Hemangiosarcoma,Golden Retriever,Male
+28371,28371,,,,,Hypothroidism,Golden Retriever,Female
+27373,27373,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+26734,26734,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+34907,34907,,,,,Hemangiosarcoma (All),Golden Retriever,0
+37713,37713,,,,,Hemangiosarcoma (Heart),Golden Retriever,Female
+28542,28542,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+40943,40943,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+40481,40481,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+40570,40570,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+40945,40945,,,,,Hemagiosarcoma,Golden Retriever,Female
+37182,37182,,,,,Hemangiosarcoma,Golden Retriever,Male
+42429,42429,,,,,Elbow Dysplasia,Golden Retriever,Female
+64178,64178,,,,,Hemangiosarcoma,Golden Retriever,Male
+9479,9479,,,,,Hemangiosarcoma (Liver),Golden Retriever,Male
+11091,11091,,,,,Hemangiosarcoma (Heart),Golden Retriever,Male
+82340,82340,,,,,Hemangiosarcoma,Golden Retriever,Female
+64176,64176,,,,,Hemangiosarcoma,Golden Retriever,Male
+76531,76531,,,,,Hemangiosarcoma,Golden Retriever,Male
+97901,97901,,,,,Hemangiosarcoma (Heart),Golden Retriever,Male
+99556,99556,,,,,Hemangiosacoma (splenic),Golden Retriever,Male
+100985,100985,,,,,Hemangiosarcoma,Golden Retriever,Male
+64158,64158,,,,,Hemangiosacoma,Golden Retriever,Female
+64160,64160,,,,,Hemangiosarcoma (Questionable),Golden Retriever,Female
+210757,210757,,,,,Hemangiosacoma (splenic),Golden Retriever,Male
+244356,244356,,,,,Hermangiosarcoma,Golden Retriever,Male
+5082,5082,,,,,Lymphoma ,Golden Retriever,Female
+6473,6473,,,,,Lymphoma ,Golden Retriever,Female
+7411,7411,,,,,Lymphoma ,Golden Retriever,Female
+9072,9072,,,,,Lymphoma ,Golden Retriever,Male
+9634,9634,,,,,Lymphoma ,Golden Retriever,Female
+16335,16335,,,,,Lymphoma ,Golden Retriever,Male
+18524,18524,,,,,Lymphoma ,Golden Retriever,Female
+14547,14547,,,,,Lymphoma ,Golden Retriever,Male
+18646,18646,,,,,Lymphoma ,Golden Retriever,Male
+18297,18297,,,,,Lymphosarcoma,Golden Retriever,Male
+1978,1978,,,,,Lymphoma (T-cell),Golden Retriever,Female
+19932,19932,,,,,Lymphoma ,Golden Retriever,Male
+21814,21814,,,,,Lymphosarcoma,Golden Retriever,Female
+25859,25859,,,,,Lymphoma ,Golden Retriever,Male
+26435,26435,,,,,Lymphoma ,Golden Retriever,Female
+1911,1911,,,,,Lymphoma ,Golden Retriever,Female
+2421,2421,,,,,Lymphoma ,Golden Retriever,Male
+26520,26520,,,,,Lymphoma ,Golden Retriever,Female
+2979,2979,,,,,Lymphoma ,Golden Retriever,Male
+5025,5025,,,,,Lymphoma ,Golden Retriever,Male
+26518,26518,,,,,Lymphoma (T-cell),Golden Retriever,Female
+26519,26519,,,,,Lymphoma ,Golden Retriever,Female
+26521,26521,,,,,Lymphoma ,Golden Retriever,Female
+26522,26522,,,,,Lymphoma ,Golden Retriever,Male
+29076,29076,,,,,Pigmentary uveitis,Golden Retriever,Female
+33275,33275,,,,,Lymphoma ,Golden Retriever,Female
+33721,33721,,,,,Lymphosarcoma,Golden Retriever,Male
+35556,35556,,,,,Lymphoma ,Golden Retriever,Male
+40951,40951,,,,,Lymphoma ,Golden Retriever,Male
+37219,37219,,,,,Lymphoma ,Golden Retriever,Male
+117157,117157,,,,,Lymphoma ,Golden Retriever,Male
+100538,100538,,,,,Lymphoma ,Golden Retriever,Male
+151444,151444,,,,,Lymphoma ,Golden Retriever,Male
+134034,134034,,,,,Lymphoma (B-cell),Golden Retriever,Male
+2236,2236,,,,,Healthy,Golden Retriever,Female
+2410,2410,,,,,Healthy,Golden Retriever,Female
+2434,2434,,,,,Healthy,Golden Retriever,Male
+2453,2453,,,,,Healthy,Golden Retriever,Female
+2497,2497,,,,,Healthy,Golden Retriever,Male
+2522,2522,,,,,Healthy,Golden Retriever,Female
+2525,2525,,,,,Healthy,Golden Retriever,Male
+3006,3006,,,,,Healthy,Golden Retriever,Female
+3582,3582,,,,,Healthy,Golden Retriever,Male
+3643,3643,,,,,Healthy,Golden Retriever,Female
+2013,2013,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Male
+2056,2056,,,,,Hemangiosarcoma (All),Golden Retriever,Male
+2079,2079,,,,,Hemangiosarcoma (All),Golden Retriever,Female
+2220,2220,,,,,Hemangiosarcoma (Spleen),Golden Retriever,Female
+2349,2349,,,,,Hemangiosarcoma (Questionable),Golden Retriever,Male
+2479,2479,,,,,Hemangiosarcoma,Golden Retriever,Female
+2565,2565,,,,,Allergies,Golden Retriever,Male
+2855,2855,,,,,Hemangiosarcoma (Unspecified),Golden Retriever,Female
+3129,3129,,,,,Hemangiosarcoma (Questionable),Golden Retriever,Female
+22392,22392,,,,,Healthy,Golden Retriever,Male
+5894,5894,,,,,Osteosarcoma,Leonberger,Female
+3337,3337,,,,,Osteosarcoma,Leonberger,Female
+3331,3331,,,,,Ununited anconeal process (UAP),Leonberger,Male
+3445,3445,,,,,Osteosarcoma,Leonberger,Male
+3442,3442,,,,,Osteosarcoma,Leonberger,Female
+3444,3444,,,,,Osteosarcoma,Leonberger,Male
+21375,21375,,,,,Osteosarcoma (All),Leonberger,Female
+201778,201778,,,,,Osteosarcoma ,Leonberger,Male
+197941,197941,,,,,Osteosarcoma ,Leonberger,Male
+197807,197807,,,,,Dilated Cardiomyopathy,Leonberger,Female
+135131,135131,,,,,Other,Leonberger,Male
+3728,3728,,,,,Hemangiosarcoma (Unspecified),Leonberger,Female
+10809,10809,,,,,Hemangiosarcoma (Unspecified),Leonberger,Male
+11545,11545,,,,,Hemangiosarcoma,Leonberger,Female
+3628,3628,,,,,Hemangiosarcoma (Unspecified),Leonberger,Male
+2998,2998,,,,,Hemangiosarcoma (Unspecified),Leonberger,Female
+14646,14646,,,,,Hemangiosacoma (splenic),Leonberger,Male
+3617,3617,,,,,Hemangiosarcoma (Unspecified),Leonberger,Female
+3629,3629,,,,,Hemangiosarcoma (Spleen),Leonberger,Male
+2787,2787,,,,,Hemangiosarcoma (Unspecified),Leonberger,Male
+14952,14952,,,,,Hemangiosarcoma (All),Leonberger,Female
+24223,24223,,,,,Hypothyorid,Leonberger,Female
+339724,339724,,,,,Mast Cell Sarcoma,Labrador Retriever,Female
+339723,339723,,,,, Mast Cell Sarcoma Grade II,Labrador Retriever,Female
+342488,342488,,,,,Mast Cell Tumor Grade II,Labrador Retriever,Female
+339722,339722,,,,,Mast Cell Tumor Grade II,Labrador Retriever,Male
+339721,339721,,,,,Mast Cell Tumor Grade II,Labrador Retriever,Male
+342493,342493,,,,,Mast Cell Tumor Grade II,Labrador Retriever,Male
+342491,342491,,,,,Mast Cell Tumor Grade II,Labrador Retriever,Female
+339726,339726,,,,,Mast Cell Tumor Grade II,Labrador Retriever,Male
+330052,330052,,,,,Mast Cell Grade II,Labrador Retriever,Male
+342486,342486,,,,,Mast Cell Tumor Grade II,Labrador Retriever,Female
+501766,501766,,,,,,,
+482419,482419,,,,,,,
+482416,482416,,,,,,,
+482417,482417,,,,,,,
+482418,482418,,,,,,,
+482413,482413,,,,,,,
+464761,464761,,,,,,,
+322695,322695,,,,,,,
+342481,342481,,,,,Mast Cell Tumor Grade II,Labrador Retriever,Female
+342479,342479,,,,,Mast Cell Tumor Grade II,Labrador Retriever,Male
+342480,342480,,,,,Mast Cell Tumor Grade II,Labrador Retriever,Female
+392940,392940,,,,,,,
+370592,370592,,,,, Mast Cell Sarcoma Grade II,Labrador Retriever,Male
+528105,528105,,,,,,,
+392941,392941,,,,,,,
+452334,452334,,,,,,,
+464748,464748,,,,,,,
+482415,482415,,,,,,,
+482420,482420,,,,,,,
+392998,392998,,,,,,,
+551546,551546,,,,,,,
+551548,551548,,,,,,,
+551547,551547,,,,,,,
+551528,551528,,,,,,,
+551535,551535,,,,,,,
+551531,551531,,,,,,,
+551529,551529,,,,,,,
+551530,551530,,,,,,,
+551525,551525,,,,,,,
+551526,551526,,,,,,,
+551527,551527,,,,,,,
+551511,551511,,,,,,,
+551516,551516,,,,,,,
+551512,551512,,,,,,,
+551518,551518,,,,,,,
+551542,551542,,,,,,,
+551506,551506,,,,,,,
+551513,551513,,,,,,,
+551520,551520,,,,,,,
+551554,551554,,,,,,,
+551508,551508,,,,,,,
+551521,551521,,,,,,,
+551510,551510,,,,,,,
+551515,551515,,,,,,,
+551539,551539,,,,,,,
+551507,551507,,,,,,,
+551509,551509,,,,,,,
+551517,551517,,,,,,,
+551514,551514,,,,,,,
+551519,551519,,,,,,,
+551551,551551,,,,,,,
+551550,551550,,,,,,,
+551611,551611,,,,,,,
+551610,551610,,,,,,,
+551612,551612,,,,,,,
+551614,551614,,,,,,,
+551615,551615,,,,,,,
+528112,528112,,,,,,,
+370596,370596,,,,, Mast Cell Tumor Grade II,Labrador Retriever,Male
+370599,370599,,,,,Mast Cell Tumor Grade II,Labrador Retriever,Female
+342468,342468,,,,,Mast Cell Sarcoma Grade II,Labrador Retriever,Male
+370601,370601,,,,,Mast Cell Grade I,Labrador Retriever,Female
+370595,370595,,,,,,,
+370600,370600,,,,,Mast Cell Grade I,Labrador Retriever,Female
+342472,342472,,,,, Mast Cell Sarcoma,Labrador Retriever,Male
+370598,370598,,,,, Mast Cell Tumor Grade II,Labrador Retriever,Female
+551553,551553,,,,,,,
+342476,342476,,,,, Mast Cell Sarcoma,Labrador Retriever,Female
+392938,392938,,,,,,,
+342471,342471,,,,, Mast Cell Sarcoma,Labrador Retriever,Female
+2146,2146,,,,,Healthy,Golden Retriever,Female
+2179,2179,,,,,Healthy,Golden Retriever,Male
+101848,101848,,,,,Elbow Dysplasia,Golden Retriever,Female

@@ -1,0 +1,2 @@
+batch_id	vcf	vcf_index	n_smpls	xcl_vcf	xcl_vcf_index	pgt_vcf	pgt_vcf_index
+A	canine_illumina.as.bcf	canine_illumina.as.bcf.csi	4134	canine_illumina.xcl.bcf	canine_illumina.xcl.bcf.csi	canine_illumina.pgt.bcf	canine_illumina.pgt.bcf.csi
